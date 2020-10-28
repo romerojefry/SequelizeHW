@@ -50,6 +50,9 @@ this contains the routs of call back function from the user input which goes thr
 -html.js
 The file function is to know if the user is logged in and directs them into the correct html
 
+Package.json
+This JSON contains the node modules being use
+
 
 
 
