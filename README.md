@@ -53,6 +53,9 @@ The file function is to know if the user is logged in and directs them into the 
 Package.json
 This JSON contains the node modules being use
 
+Server.js
+This file is where the port is connecting to the server and mysql through node.js and the installation of npms
+
 
 
 
