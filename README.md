@@ -44,6 +44,12 @@ The javascript is function is logging in and inputs when the users logs in and g
 -HTML
 styling of the website display and buttons that fire the functions
 
+Rotes file
+-api.js
+this contains the routs of call back function from the user input which goes through app.post and app.get
+-html.js
+The file function is to know if the user is logged in and directs them into the correct html
+
 
 
 
