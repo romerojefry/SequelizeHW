@@ -32,7 +32,11 @@ This file configuration connects to the server and MySql
 -Passport.js
 This file authorizes requests for the user password and email
 
-
+Models files
+-Index.js
+This file creates database structures from sequalize
+-User.js
+This file checks if the match account is connected to the user input adn sercures the password
 
 
 ##Contribing 
