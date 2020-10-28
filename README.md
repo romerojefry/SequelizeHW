@@ -38,6 +38,14 @@ This file creates database structures from sequalize
 -User.js
 This file checks if the match account is connected to the user input adn sercures the password
 
+Public files
+-JS
+The javascript is function is logging in and inputs when the users logs in and get request when user is making an account
+-HTML
+styling of the website display and buttons that fire the functions
+
+
+
 
 ##Contribing 
 None
