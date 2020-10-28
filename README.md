@@ -24,6 +24,13 @@ Bcrypt.js
 
 ## Usage
 ** FILES WALKTHROUGH **
+Config file
+-middleware
+Its a javascript file where restricts routes if the user isn't logged in
+-Config.json
+This file configuration connects to the server and MySql
+-Passport.js
+This file authorizes requests for the user password and email
 
 
 
